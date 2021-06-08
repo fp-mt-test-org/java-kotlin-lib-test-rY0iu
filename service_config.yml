@@ -1,0 +1,7 @@
+flex:
+  version: 0.2.5
+  workflows:
+    build:
+      command: ./gradlew build
+service:
+  name: 'java-kotlin-lib-test-rY0iu'
